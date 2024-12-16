@@ -1,0 +1,3 @@
+se debe descomprimir el archivo 
+tcpdf.rar
+antes de ejecutar la reporteria en pdf.
